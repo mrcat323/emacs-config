@@ -1,0 +1,17 @@
+
+;; ----- smex-history -----
+(
+ toggle-truncate-lines
+ web-mode
+ c
+ g
+ ar
+ cc
+ cd
+)
+
+;; ----- smex-data -----
+(
+ (web-mode . 4)
+ (toggle-truncate-lines . 26)
+)

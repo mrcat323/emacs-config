@@ -1,0 +1,1 @@
+("~/projects/laravel-projects/lara-shop/" "~/gitter/lara-bue/" "~/projects/laravel-projects/testing-n-trashing/" "~/gitter/portal.io/" "~/.emacs.d/ergoemacs-mode/" "~/.emacs.d/elpa/mmm-mode-0.5.7/")

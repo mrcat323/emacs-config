@@ -1,0 +1,157 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/sam-sepi0l/gitter/lara-shop git edition/lara-shop/" . "app/")
+ ("/home/sam-sepi0l/gitter/lara-shop git edition/" . "lara-shop/")
+ ("/home/sam-sepi0l/gitter/" . "lara-shop git edition/")
+ ("/home/sam-sepi0l/productivity/plans/" . "plans.org/")
+ ("/home/sam-sepi0l/productivity/" . "plans/")
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib/" . "app/")
+ ("/home/sam-sepi0l/.emacs.d/" . "ergoemacs-mode/")
+ ("/home/sam-sepi0l/projects/laravel-projects/" . "e-lib/")
+ ("/home/sam-sepi0l/projects/" . "laravel-projects/")
+ ("/home/sam-sepi0l/j4ck-gitter/git-learning/" . "configs/")
+ ("/home/sam-sepi0l/j4ck-gitter/" . "git-learning/")
+ ("/home/sam-sepi0l/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/sam-sepi0l/projects/laravel-projects/lara-shop/resources/js/components/pages/"
+ "/home/sam-sepi0l/projects/laravel-projects/lara-shop/resources/js/components/layouts/"
+ "/home/sam-sepi0l/projects/laravel-projects/lara-shop/public/"
+ "/home/sam-sepi0l/projects/laravel-projects/lara-shop/resources/js/components/"
+ "/home/sam-sepi0l/.emacs.d/"
+ "/home/sam-sepi0l/gitter/lara-shop git edition/lara-shop/app/"
+ "/home/sam-sepi0l/productivity/plans/plans.org/"
+ "/home/sam-sepi0l/projects/laravel-projects/e-lib/app/"
+ "/home/sam-sepi0l/projects/laravel-projects/e-lib/database/migrations/"
+ "/home/sam-sepi0l/j4ck-gitter/git-learning/"
+ "/home/sam-sepi0l/"
+ "/home/sam-sepi0l/j4ck-gitter/git-learning/configs/"
+ "/home/sam-sepi0l/.emacs.d/ergoemacs-mode/"
+ "/home/sam-sepi0l/projects/laravel-projects/laravel57/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".htaccess"
+ "init.el"
+ "Products.php"
+ "Category.php"
+ "projects-todo.org"
+ "projects-todo.html"
+ "Book.php"
+ "example.log"
+ "example.org"
+ ".emacs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/sam-sepi0l/projects/laravel-projects/lara-shop/resources/js/components/pages/" (23770 33836 281355 829000) "LoginComponent.vue" "./" "AboutComponent.vue" "../" "RegisterComponent.vue" "DashboardComponent.vue" "HomeComponent.vue")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/lara-shop/resources/js/components/layouts/" (23770 34311 154654 224000) "./" "HeroLayout.vue" "../" "NavbarLayout.vue")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/lara-shop/public/" (23755 3804 56608 590000) "index.php" "./" "about-page.js" "robots.txt" "login-page.js" "svg/" "../" "home-page.js" ".htaccess" "mix-manifest.json" "favicon.ico" "js/" "css/" "register-page.js")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/lara-shop/" (23752 19981 857653 96000) "node_modules/" ".gitignore" "yarn.lock" "./" "routes/" ".git/" ".gitattributes" ".prettierrc.js" "config/" "resources/" "artisan" ".env" "../" "public/" "composer.json" "phpunit.xml" ".eslintrc.js" ".travis.yml" "app/" ".editorconfig" ".babelrc" ".projectile" "database/" "package.json" "bootstrap/" ".env.example" "webpack.mix.js" "storage/" "vendor/" "composer.lock" "tests/" "server.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/lara-shop/app/" (23752 20549 537435 331000) "Exceptions/" "./" "Http/" "Traits/" "Console/" "Providers/" "../" "Category.php" "Repositories/" "User.php" "Product.php" "Cart.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/lara-shop/app/Http/" (23752 17609 368915 292000) "./" "../" "Middleware/" "Controllers/" "Kernel.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/lara-shop/app/Http/Middleware/" (23752 29746 497564 439000) "./" "TrustProxies.php" "RedirectIfAuthenticated.php" "../" "CheckForMaintenanceMode.php" "Authenticate.php" "VerifyCsrfToken.php" "EncryptCookies.php" "TrimStrings.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/lara-shop/resources/js/components/" (23756 15236 998257 83000) "./" "pages/" "App.vue" "layouts/" "../")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/lara-shop/app/Http/Controllers/" (23752 20191 357955 377000) "./" "MainController.php" "../" "HomeController.php" "Controller.php" "AuthController.php" "Auth/" "ProductController.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/space/app/" (23716 47730 366716 574000) "Listeners/" "Admin/" "Exceptions/" "./" "Media.php" "Http/" "Policies/" "Section.php" "Console/" "Answer.php" "Lesson.php" "Providers/" "../" "Category.php" "Article.php" "Exercise.php" "Support/" "Course.php" "User.php" "Notifications/" "Services/" "Question.php")
+
+ ("/home/sam-sepi0l/.linuxmint/" (23094 14302 140419 709000) "./" "../" "mintUpload/" "mintwelcome/")
+
+ ("/home/sam-sepi0l/j4ck-gitter/git-learning/" (23645 45706 205809 275000) "missfont.log" ".gitignore" "index.html" "./" "macros.el" "example.org" "example.php" ".git/" "example.tex" "cat.jpg" "../" "#index.html#" "configs/" ".projectile" "example.log" "example.html" "example.txt" "README.md")
+
+ ("/home/sam-sepi0l/productivity/plans/plans.org/" (23653 36345 29561 984000) "./" ".git/" "projects-todo.org" "../" "exported/" ".projectile")
+
+ ("/home/sam-sepi0l/.emacs.d/" (23689 4783 439269 563000) "games/" "ghub/" "color-theme/" "yasnippet-snippets/" "./" "projectile.cache" "recentf" "tutorial/" "bookmarks" "eshell/" "sr-speedbar.el" "web-mode/" "with-editor/" "keybindings.el" "ergoemacs-mode/" "smex-items" "ac-comphist.dat" "projectile-bookmarks.eld" "ergoemacs-extras/" "fonts.el" "../" "recentf~" "projectile/" "yasnippet/" "magit/" ".cask/" "auto-save-list/" "init.el" ".litable-lists.el" "dash/" "#recentf#" "ido.last" "magit-popup/" "ma.el" "linum+.el" "litable/" "auto-complete/" "url/" "session.26ed4329f-e6e3-4fba-b83b-1e4048a1bea0" "snippets/" "#ido.last#" "elpa/")
+
+ ("/home/sam-sepi0l/emacs.d/" (23127 9704 409709 789000) "color-theme/" "./" "../" "backups/")
+
+ ("/home/sam-sepi0l/" (23689 3736 822482 566000) ".mozilla/" "keys/" ".mysql_history" "casper-test/" "Legend/" ".gtkrc-xfce" "lorem/" "Downloads/" "projects/" ".calc_history" ".aptitude/" ".selected_editor" ".texmf-var/" ".mutt_certificates" "startups/" "incubating-netbeans-10.0-bin.zip" "kernels/" "snap/" "hello.txt" "index.php" "pinterest/" ".yarn/" ".bash_logout" ".vue-templates/" "Templates/" "py-shit/" "j4ck-gitter/" "Music/" "index.html" "productivity/" ".thunderbird/" "console_games/" ".hgrc" "open-source-projects.docx" ".netrc" ".dbus/" ".v8flags.6.2.414.46-node.18.4001b98f80b70c53c88a236d939fcc35.json" "something.txt" "Программирование/" "app.js" ".emma/" ".bashrc" "360.mp4.aria2" "incubating-netbeans-10.0-source.zip" "Rick-the-Legend/" ".purple/" "Grup_VEZON_57467736.mp4" ".newsrc-dribble" "young-vue-learner/" ".yarnrc" "RMAIL" "zsh-theme" "gpger/" ".gnome2/" "archives/" ".irssi/" "linuxmint-19-xfce-64bit-v2.iso" ".gvfs/" "Robot/" ".xdm/" "config/" ".nbi/" "start.html" "to-do-js/" "Classic_VEZON_39512709.mp4" "NetBeansProjects/" ".themes/" "package-lock.json" ".ViberPC/" ".java/" "gitter/" "cask-stuff/" ".atom/" ".org-timestamps/" ".bash_history" ".emacs~" "books.jpg" "artisan" ".ssh/" ".zcompdump" "6-006-spring-2008/" "cat.jpg" ".cache/" ".gksu.lock" "installs/" ".profile" "presentations/" ".node_repl_history" "nb/" "plugins/" ".httpie/" "ostapenko.txt" "themes/" ".thumbnails/" "gut.txt" "Mr. Robot/" ".zshrc" "facebook-stuff/" "msmtp_settings.png" "test/" "360.mp4" "-" ".python_history" "Videos/" ".sudo_as_admin_successful" "catore.local/" ".linuxmint/" "anki-2.1.5-linux-amd64/" ".node-gyp/" ".npm/" ".dmrc" ".htaccess" ".local/" ".ICEauthority" "new_passwords.txt" "personal/" ".gitconfig" ".wget-hsts" "pass.txt" "generated_passwords/" ".muttrc" "Books/" ".netbeans/" ".minecraft/" "News/" "backups/" ".oh-my-zsh/" ".msmtprc" ".xsession-errors" ".nano/" "Download/" "hostsfile" "anki-2.1.5-linux-amd64.tar.bz2" ".config/" "android-sdk_r20-linux.tgz" "bootstrap/" "PhpStorm-2018.3.2.tar.gz" ".gnome2_private/" ".cask/" "Sarbandi     Ariginal    tu/" "emacs/" "heroku.txt" ".gimp-2.8/" "javaguy/" ".pki/" ".composer/" "pytrash/" ".android/" ".dbshell" "emacs-25.1/" "atom-amd64.deb" "Documents/" ".zsh_history" "links.txt" ".quokka/" "Desktop/" "emacs.d/" "storage/" ".ci_edit/" ".xsession-errors.old" ".zshrc.save" "dbs/" "qb64/" "Public/" "docker-stuff/" "newterminal.code" "vendor/" "todo.code-workspace" ".emacs.d/" ".gnupg/" ".lazarus/" ".hgexternalcache/" "Rick Grimes - The Sheriff/" ".mongorc.js" "javascript-learner/" "Pictures/" ".zcompdump-samsepi0l-eME728-5.1.1" "tests/" ".gnupg.orig/" ".Xauthority" "revokeCaT.crt" ".gconf/" "gdrive/" ".rnd" ".vscode/" "open-source-activist/" "pymit/" "reqtest.txt" "npm-problem.png" "netbeans-8.0.2-php-linux.sh" ".php_history" "muhammad/" "contributions/" "Films/" ".gtkrc-2.0" "../" "./")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/" (23686 27540 136016 365000) "lara-practice/" "space/" "./" "pyrocms/" "admin-test/" "lara-shop/" "testing/" "e-lib-test/" "testing-n-trashing/" "laravel57/" "../" "lara-bue/" "laravel-project/" "admin-user/")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/space/" (23687 43279 517077 375000) "node_modules/" "Procfile" ".gitignore" "yarn.lock" "./" "routes/" ".git/" ".gitattributes" "config/" "package-lock.json" "nginx_app.conf" "resources/" "artisan" ".env" "../" "public/" "composer.json" "phpunit.xml" "app/" ".projectile" "database/" "_ide_helper.php" "package.json" "bootstrap/" ".env.example" "readme.md" "webpack.mix.js" "storage/" "vendor/" "composer.lock" "tests/" "server.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/space/app/Policies/" (23686 27834 179921 851000) "./" "../" "ArticlePolicy.php")
+
+ ("/home/sam-sepi0l/gitter/lara-shop git edition/lara-shop/app/" (23673 15930 849851 185000) "Exceptions/" "./" "Http/" "Console/" "Products.php" "Providers/" "Users.php" "../" "Category.php" "Notifications/" "Cart.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib-test/e-lib/app/" (23673 15969 999419 483000) "Book.php" "Exceptions/" "./" "Http/" "Console/" "Providers/" "../" "Category.php" "User.php")
+
+ ("/home/sam-sepi0l/gitter/lara-shop git edition/lara-shop/" (23508 40580 559665 169000) "node_modules/" ".gitignore" "yarn.lock" "./" "routes/" ".git/" "LICENSE" "config/" "package-lock.json" "resources/" "artisan" ".env" "../" "public/" "composer.json" "phpunit.xml" "app/" "database/" "package.json" "bootstrap/" ".env.example" "webpack.mix.js" "storage/" "composer.lock" "tests/" "server.php" "README.md")
+
+ ("/home/sam-sepi0l/gitter/lara-shop git edition/" (23265 48905 297650 992000) "./" ".git/" "lara-shop/" "../")
+
+ ("/home/sam-sepi0l/gitter/" (23660 6770 561681 564000) "flat-theme/" "php-getting-started/" "mrcat323.github.io/" "laravel-view-generator/" "ProxyBroker/" "./" "laravel/" "lara-blog.7z.gpg" "v-calendar-learn/" "lara-shop/" "eazy-english/" "portal.io/" "gpg.iso" "blog/" "keys-test/" "InstagramDownload/" "catoolin/" "linux4u/" "v-calendar-activist/" "catsblog/" "dom-polyfills/" "catore.local/" "../" "docs/" "laravel-backup/" "lara.dev/" "calendars/" "gitty/" "v-calendar/" "modern_portfolio/" "lara-bue/" "lara-docs-md/" "to-do/" "basic-sums/" "the-cat/" "lara/" "linus-quotes.iso" "catore/" "twitter-api-php/" "test-folder/" "project/" "onversus.fun/" "Ostap34JS.github.io/" "to-do.zip" "linusQuoter/" "lara-shop git edition/")
+
+ ("/home/sam-sepi0l/projects/" (23669 17327 274732 818000) "./" "install-master/" "../" "laravel-projects/" "flexbox-tutorials/")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib-test/" (23671 62073 865613 998000) "./" "../" "e-lib/")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib-test/e-lib/" (23671 63105 933479 899000) "node_modules/" "Procfile" ".gitignore" "yarn.lock" "./" "routes/" ".git/" ".gitattributes" "config/" "package-lock.json" "resources/" "artisan" ".env" "../" "public/" "composer.json" "phpunit.xml" "app/" ".projectile" "database/" "package.json" "bootstrap/" ".env.example" "webpack.mix.js" "storage/" "vendor/" "composer.lock" "server.php")
+
+ ("/home/sam-sepi0l/productivity/plans/" (23653 33339 855102 851000) "./" "../" "plans.org/")
+
+ ("/home/sam-sepi0l/productivity/" (23653 33322 446285 841000) "./" "languages/" "../" "plans/")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib/app/Http/" (23512 28407 91299 588000) "./" "../" "Middleware/" "Controllers/" "Kernel.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib/app/Http/Controllers/" (23653 31855 172119 565000) "./" "CategoryController.php" "UsersController.php" "MainController.php" "../" "HomeController.php" "Controller.php" "BookController.php" "Auth/")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib/app/" (23650 60999 735932 434000) "Book.php" "Exceptions/" "./" "Http/" "Console/" "Providers/" "../" "Category.php" "User.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib/" (23652 16566 696295 625000) "node_modules/" "Procfile" ".gitignore" "yarn.lock" "./" "routes/" ".git/" ".gitattributes" "config/" "package-lock.json" "resources/" "artisan" ".env" "../" "public/" "composer.json" "phpunit.xml" "app/" ".projectile" "database/" "package.json" "bootstrap/" ".env.example" "webpack.mix.js" "storage/" "vendor/" "composer.lock" "tests/" "server.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib/resources/" (23512 28407 31298 582000) "./" "views/" "assets/" "../" "lang/")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib/resources/views/" (23649 39047 861519 176000) "./" "index.blade.php" "search/" "layouts/" "categories/" "auth/" "../" "users/" "home.blade.php" "books/")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib/resources/views/categories/" (23650 53880 742169 324000) "./" "index.blade.php" "create.blade.php" "single.blade.php" "../" "edit.blade.php")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/e-lib/database/migrations/" (23649 37909 623454 1000) "./" "2014_10_12_100000_create_password_resets_table.php" "2014_10_12_000000_create_users_table.php" "2018_10_30_155047_create_books_table.php" "../" "2019_02_11_152613_add_categoryid_to_books.php" "2019_02_11_151630_create_categories_table.php" "2018_10_31_153431_add_status_to_users.php")
+
+ ("/home/" (23613 42646 319835 510000) "./" "toruser/" "../" "emacs/" "tor-user/" "sam-sepi0l/")
+
+ ("/usr/" (23157 42279 410998 197000) "games/" "./" "share/" "include/" "sbin/" "../" "etc/" "src/" "bin/" "local/" "lib/")
+
+ ("/usr/local/" (23619 15359 232695 421000) "games/" "./" "share/" "man/" "libexec/" "include/" "sbin/" "var/" "../" "etc/" "src/" "bin/" "lib/")
+
+ ("/usr/local/share/" (23619 15363 660749 852000) "applications/" "./" "man/" "icons/" "anki/" "appdata/" "pixmaps/" "zsh/" "xml/" "../" "fonts/" "texmf/" "emacs/" "ca-certificates/" "doc/" "sgml/" "locale/" "info/")
+
+ ("/usr/local/share/emacs/" (23619 15359 584699 747000) "./" "25.1/" "24.5/" "site-lisp/" "../")
+
+ ("/usr/local/share/emacs/25.1/" (23619 15360 392709 679000) "lisp/" "./" "site-lisp/" "../" "etc/")
+
+ ("/usr/local/share/emacs/25.1/etc/" (23619 15364 632761 803000) "publicsuffix.txt.gz" "ps-prin1.ps" "NEWS.22" "org/" "MH-E-NEWS" "FTP" "charsets/" "NEWS.23" "./" "DEVEL.HUMOR" "refcards/" "tutorials/" "forms/" "emacs.appdata.xml" "COPYING" "LINUX-GNU" "CENSORSHIP" "ERC-NEWS" "CALC-NEWS" "ETAGS.EBNF" "ORDERS" "enriched.txt" "emacs.icon" "grep.txt" "HISTORY" "NEXTSTEP" "edt-user.el" "ETAGS.README" "README" "schema/" "spook.lines" "GNU" "emacs.desktop" "THE-GNU-PROJECT" "themes/" "WHY-FREE" "PROBLEMS" "GNUS-NEWS" "DEBUG" "DOC" "../" "TODO" "srecode/" "ps-prin0.ps" "DISTRIB" "MORE.STUFF" "AUTHORS" "NEWS" "e/" "MACHINES" "NEWS.1-17" "images/" "TERMS" "NEWS.21" "gnus-tut.txt" "NEWS.19" "gnus/" "NXML-NEWS" "NEWS.24" "package-keyring.gpg" "NEWS.18" "rgb.txt" "JOKES" "HELLO" "future-bug" "ses-example.ses" "ORG-NEWS" "compilation.txt" "emacs-buffer.gdb" "NEWS.20" "nxml/" "yow.lines")
+
+ ("/home/sam-sepi0l/j4ck-gitter/git-learning/configs/" (23635 382 663737 25000) "emacs.el" "./" "../" "#lessons.el#" "lesson7.el" "lessons.el")
+
+ ("/home/sam-sepi0l/projects/laravel-projects/laravel57/" (23632 21957 752815 635000) "node_modules/" ".gitignore" "yarn.lock" "./" "routes/" ".git/" ".gitattributes" "config/" "nbproject/" "resources/" "artisan" ".env" "../" "public/" "composer.json" "phpunit.xml" "app/" ".editorconfig" "database/" "_ide_helper.php" "package.json" "bootstrap/" ".env.example" "readme.md" "webpack.mix.js" "storage/" "vendor/" "composer.lock" "tests/" "server.php")
+
+ ("/home/sam-sepi0l/.emacs.d/ergoemacs-mode/" (23616 31999 607895 311000) "ergoemacs-map-properties.el" "Readme.md" "ergoemacs-lib.el" "ergoemacs-map.el" "Makefile" "ergoemacs-key-description.el" ".gitignore" "./" "ergoemacs-debug.el" "COPYING" "ergoemacs-mode.info" ".git/" ".Rhistory" "ergoemacs-score.el" "dir" "os_x_qwerty.dict.txt" "ergoemacs-layouts.el" "kbd-ergo.html" "kbd-ergo.svg" "ergoemacs-command-loop.el" "ahk-us.ahk" "test/" "../" "ergoemacs-test.el" ".travis.yml" "ergoemacs-theme-engine.el" "ergoemacs-global-24-5-1-x86-64-pc-linux-gnu.el.gz" "ergoemacs-advice.el" "ergoemacs-functions.el" "ergoemacs-mapkeymap.el" "ergoemacs-mode.el" "melpa/" "kbd.svg" "ergoemacs-macros.el" "ergoemacs-translate.el" "el-get/" "web.org" "ergoemacs-component.el" "ergoemacs-themes.el" "o-blog-template/")
+
+ ("/home/sam-sepi0l/.emacs.d/ergoemacs-extras/" (23619 15635 631466 957000) "./" "../" "ergoemacs-global-25-1-1-x86-64-unknown-linux-gnu.el.gz")
+
+ ("/home/sam-sepi0l/j4ck-gitter/" (23619 5031 762307 104000) "./" "../" "git-learning/")
+
+ ("/home/sam-sepi0l/.emacs.d/magit/" (23619 9149 929871 605000) "Makefile" "lisp/" "./" "default.mk" "LICENSE" "Documentation/" "../" "config.mk" "README.md")
+
+ ("/home/sam-sepi0l/Books/" (23608 28191 919010 379000) "10StepstoEarningAwesomeGrades.pdf" "./" "Justin_Seitz___Black_Hat_Python.pdf" "Sino/" "Будь лучшей версией себя.pdf" "Намунаи тестҳо – 2018/" "2_5424812418066808960.pdf" "Stephens_R_Essential_Algorithms.pdf" "../" "The-Clean-Architecture-in-PHP-Kristopher-Wilson.pdf" "Lisa_McMann-Fade.mp3" "PHP_Cookbook_3rd_Edition_proglib.pdf")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

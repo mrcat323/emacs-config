@@ -1,0 +1,75 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("login"
+ (filename . "~/projects/laravel-projects/lara-shop/app/Http/Controllers/AuthController.php")
+ (front-context-string . "   public functi")
+ (rear-context-string . "       \n    }\n\n ")
+ (position . 883))
+("register"
+ (filename . "~/projects/laravel-projects/lara-shop/app/Http/Controllers/AuthController.php")
+ (front-context-string . "       $v = Vali")
+ (rear-context-string . "r $user)\n    {\n ")
+ (position . 301))
+("destroy-category-controller"
+ (filename . "~/projects/laravel-projects/e-lib/app/Http/Controllers/CategoryController.php")
+ (front-context-string . "roy(Request $req")
+ (rear-context-string . "ic function dest")
+ (position . 1732))
+("update-category-controller"
+ (filename . "~/projects/laravel-projects/e-lib/app/Http/Controllers/CategoryController.php")
+ (front-context-string . "te(Request $requ")
+ (rear-context-string . "ic function upda")
+ (position . 1488))
+("edit-category-controller"
+ (filename . "~/projects/laravel-projects/e-lib/app/Http/Controllers/CategoryController.php")
+ (front-context-string . "(Category $categ")
+ (rear-context-string . "ic function edit")
+ (position . 1216))
+("show-category-controller"
+ (filename . "~/projects/laravel-projects/e-lib/app/Http/Controllers/CategoryController.php")
+ (front-context-string . "(Category $categ")
+ (rear-context-string . "ic function show")
+ (position . 986))
+("store-category-controller"
+ (filename . "~/projects/laravel-projects/e-lib/app/Http/Controllers/CategoryController.php")
+ (front-context-string . "equest $request)")
+ (rear-context-string . "function store(R")
+ (position . 778))
+("create-category-controller"
+ (filename . "~/projects/laravel-projects/e-lib/app/Http/Controllers/CategoryController.php")
+ (front-context-string . ")\n    {\n        ")
+ (rear-context-string . "function create(")
+ (position . 561))
+("index-category-controller"
+ (filename . "~/projects/laravel-projects/e-lib/app/Http/Controllers/CategoryController.php")
+ (front-context-string . "\n    {\n        /")
+ (rear-context-string . "function index()")
+ (position . 395))
+("books-relation"
+ (filename . "~/projects/laravel-projects/e-lib/app/Category.php")
+ (front-context-string . " function books(")
+ (rear-context-string . " [];\n\n    public")
+ (position . 216))
+("category-relation"
+ (filename . "~/projects/laravel-projects/e-lib/app/Book.php")
+ (front-context-string . "on category()\n  ")
+ (rear-context-string . "   public functi")
+ (position . 218))
+("top-dotemacs"
+ (filename . "~/.emacs")
+ (front-context-string . "\n(let* ((no-ssl ")
+ (rear-context-string . "equire 'package)")
+ (position . 273))
+("command-palet"
+ (filename . "~/.emacs")
+ (front-context-string)
+ (rear-context-string . "mmand \"example\")")
+ (position . 6406))
+("home-dotemacs"
+ (filename . "~/.emacs")
+ (front-context-string . ";; just comment ")
+ (rear-context-string . " don't want it,\n")
+ (position . 137))
+)
