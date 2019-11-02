@@ -91,7 +91,13 @@ There are two things you can do about this warning:
 (add-to-list 'load-path "~/.emacs.d/projectile")
 (require 'projectile)
 (projectile-mode t)
+(toggle-truncate-lines t)
 
+;; Special mini-plugins; For special use
+(add-to-list 'load-path "~/.emacs.d/custom-plugins")
+(require 'php-tricky)
+(global-set-key (kbd "C-x RET") 'auto-go)
+(global-set-key (kbd "C-c e") 'end-of-line)
 ;; Key configs for PROJECTILE 
 (global-set-key (kbd "C-c p f") 'projectile-find-file)
 (global-set-key (kbd "C-c p g") 'projectile-grep)
@@ -175,4 +181,3 @@ There are two things you can do about this warning:
 (add-hook 'php-mode-hook 'keybindings-webmode)
 (global-diff-hl-mode t)
 (setq org-todo-keywords '((sequence "TODO" "PUSH" "|" "DONE" "PUSHED")))
-(toggle-truncate-lines t)
